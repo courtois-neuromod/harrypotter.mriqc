@@ -1,0 +1,1 @@
+e09111ee-de5e-4788-a3be-bc158ca23c63 autoenable=true bucket=cneuromod.harrypotter.mriqc chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.harrypotter.mriqc port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1781544077s
